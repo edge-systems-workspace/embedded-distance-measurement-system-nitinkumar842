@@ -7,7 +7,7 @@
  *
  * @details
  * Measures distance using HC-SR04 ultrasonic sensor
- * and displays structured output via Serial Monitor.
+ * and displays structured output via Serial Monitor
  */
 
 
